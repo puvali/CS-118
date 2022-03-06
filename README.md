@@ -1,3 +1,3 @@
-# CS-118
+# CS 118 - Computer Network Fundamentals
 
-My programming projects for CS 118: Computer Network Fundamentals taken at UCLA with Professor Lixia Zhang in Winter 2020. 
+This is my coursework for CS 118 taken at UCLA with Professor Lixia Zhang in Winter 2020. 
